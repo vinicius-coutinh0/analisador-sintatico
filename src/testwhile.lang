@@ -1,0 +1,3 @@
+CAOS_GENERALIZADO (nota MENOR_QUE 20) {
+    nota EH nota SOMADO_COM 2;
+}
